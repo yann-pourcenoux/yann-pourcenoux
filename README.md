@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @yann-pourcenoux, I am a machine learning master student at [Univrses](https://univrses.com/). I am working in 2D object detection on mobile devices.
-- 👀 I’m interested in Deep Learning but more specifically in object detection and segmentation. 
-- 🌱 I’m currently learning how to correctly use [Tensorflow Lite](https://www.tensorflow.org/lite).
+- 👋 Hi, I’m @yann-pourcenoux, I am a deep learning engineer at @Univrses. I am working on various computer vision applications and I deploy these models both in the cloud and on embedded devices.
+- 👀 I’m interested in different areas of Machine Learning but mainly Deep Learning. 
+- 🌱 I’m currently learning how to use Deep Reinforcement Learning to manage my investment portfolios.
 - 📫 You can reach me on my personal mailbox yann.pourcenoux@gmail.com.
 
 <!---
