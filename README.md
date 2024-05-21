@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @yann-pourcenoux, I am a deep learning engineer at @Univrses. I am working on various computer vision applications and I deploy these models both in the cloud and on embedded devices.
-- 👀 I’m interested in different areas of Machine Learning but mainly Deep Learning. 
-- 🌱 I’m currently learning how to use Deep Reinforcement Learning to manage my investment portfolios.
+- 👋 Hi, I’m @yann-pourcenoux, an AI specialist at [Oneflow](https://oneflow.com/) creating tools to help you write successful contracts.
+- 👀 I’m interested in different areas of Machine Learning, mainly Deep Learning. 
+- 🌱 I’m learning to use Deep Reinforcement Learning to manage my investment portfolios.
 - 📫 You can reach me on my personal mailbox yann.pourcenoux@gmail.com.
 
 <!---
